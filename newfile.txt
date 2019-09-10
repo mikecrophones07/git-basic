@@ -1,62 +1,7 @@
-CHARLIE PUTH - Empty Cups
-
-Lyrics
-Oh, the way that she dances on me makes me not wanna leave
-You wanna go upstairs but you don't wanna sleep
-Oh, right now we're in a rhythm
-Your boyfriend's no competition
-Turn off your phone and blame it on your battery, hey
-Oh-oh-oh-oh
-We're getting real, real close
-Oh-oh-oh-oh
-Can't let this moment go
-Hands on your body like there is no one at the party
-Just me and you and these empty cups
-If you want it like I want it
-Let me take you to another room
-So it's only us
-Turn my television up so nobody can listen
-Hands on your body like there is no one a at the party
-Just me and you and these empty cups
-Oh, girl, do you think they'll notice if we slip away?
-Maybe tomorrow they'll all have something to say
-Oh, right now we're in a rhythm
-We don't need no one's permission
-End of the night don't mean we gotta separate, oh
-Oh-oh-oh-oh
-We're getting real, real close
-Oh-oh-oh-oh
-Can't let this moment go
-Hands on your body like there is no one at the party
-Just me and you and these empty cups
-If you want it like I want it
-Let me take you to another room
-So it's only us
-Turn my television up so nobody can listen
-Hands on your body like there is no one at the party
-Just me and you and these empty cups
-All of these empty cups
-Baby, all of these empty cups
-Oh-oh-oh-oh
-We're getting real, real close
-Oh-oh-oh-oh
-Can't let this moment go
-Hands on your body like there is no one at the party
-Just me and you and these empty cups
-If you want it like I want it
-Let me take you to another room
-So it's only us
-Turn my television up so nobody can listen
-Hands on your body like there is no one at the party
-Just me and you and these empty cups
-All of these empty cups
-(If you want it like I want it)
-(Let me take you to another room) Oh, baby
-Like it's only us
-Turn my television up so nobody can listen
-Hands on your body like there is no one at the party
-Just me and you and these empty cups
-
-CHARLIE PUTH - Empty Cups 
+add - this is where you stage your file
+commit - this is where you add you changes to your local branch
+push - this is where you add you commit changes to the remote branch
 
 edited on GitHub
+
+
